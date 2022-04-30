@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;week13/WebContent/pagnation.html&apos; to &apos;singlePage.html&apos;" description="Rename resource &apos;pagnation.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/pagnation.html" name="singlePage.html" stamp="1622218590330" updateReferences="true"/>
+</session>
